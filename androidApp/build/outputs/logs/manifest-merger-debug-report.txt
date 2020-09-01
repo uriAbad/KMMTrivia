@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [:shared] /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/25a05eb679abfaa45f8e2d8d1bae791f/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/90b26979f03d19250f81d1078d9e18b7/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/873248d61f83fe0bc30dd61028fea3ea/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/732a5d5570e4538f3817a8f7bcf819ea/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/fe044e4bef2a5b460c01f34abe5d1837/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/8c4becc6fdfc4f70ea77d2a78d5b0174/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/c34e7140160a1deb0c398857080c3953/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/5c1b437bde92d2a30d46ddab3b43941b/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/5ad315251e01798a33f712d17613e59a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/a79a4b9086913a171f6dbeb3f19501ae/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/985eb837bee95a611afedbbd44c6c5ac/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/aa70439836d9c55b13db290bfddea5f5/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/2ba2a599deb304c817b73c7cefd6bbc0/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/4820ad9154f6bd74871479c33a87ff33/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/209d50041f42e31e97650eec3c214ba8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/d9c04b17cff697ab27a3f0400f365037/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/785b7d4aed89f7c46eda52a3e0527d0d/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/b019b1e092b8e5d7604686b4ad90d5bb/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/73d50a523fec5d0e6715b345afc706bb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/cf7c4744656ca053a61349086d2b8d14/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/052f7e9acf2f05cc29e9a1ed91ecea47/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/ba78d6f407b08aad3a3ef5d8e5ab6988/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/a9caaee243d89d0936d71eeb5b5862fc/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/8f00c0b3679954d4ad318312a3ca166d/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/f46dd8b3576ba1c9c18d525cb371ecbe/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/48738857b792ec4f34f60931ad2062c8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/2523155237b84684ce71e66080711c99/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/38f0960008c559218260df93068fc6a2/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:70-109
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:1-17:12
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:4:5-15:19
+MERGED from [com.google.android.material:material:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/25a05eb679abfaa45f8e2d8d1bae791f/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/25a05eb679abfaa45f8e2d8d1bae791f/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/873248d61f83fe0bc30dd61028fea3ea/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/873248d61f83fe0bc30dd61028fea3ea/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/b019b1e092b8e5d7604686b4ad90d5bb/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/b019b1e092b8e5d7604686b4ad90d5bb/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/cf7c4744656ca053a61349086d2b8d14/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/cf7c4744656ca053a61349086d2b8d14/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/b019b1e092b8e5d7604686b4ad90d5bb/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:6:13-39
+	android:allowBackup
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:5:13-40
+	android:theme
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:7:13-44
+activity#uri.abad.kmmtrivia.androidApp.MainActivity
+ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:8:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:shared] /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/25a05eb679abfaa45f8e2d8d1bae791f/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/25a05eb679abfaa45f8e2d8d1bae791f/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/90b26979f03d19250f81d1078d9e18b7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/90b26979f03d19250f81d1078d9e18b7/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/873248d61f83fe0bc30dd61028fea3ea/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/873248d61f83fe0bc30dd61028fea3ea/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/732a5d5570e4538f3817a8f7bcf819ea/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/732a5d5570e4538f3817a8f7bcf819ea/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/fe044e4bef2a5b460c01f34abe5d1837/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/fe044e4bef2a5b460c01f34abe5d1837/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/8c4becc6fdfc4f70ea77d2a78d5b0174/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/8c4becc6fdfc4f70ea77d2a78d5b0174/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/c34e7140160a1deb0c398857080c3953/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/c34e7140160a1deb0c398857080c3953/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/5c1b437bde92d2a30d46ddab3b43941b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/5c1b437bde92d2a30d46ddab3b43941b/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/5ad315251e01798a33f712d17613e59a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/5ad315251e01798a33f712d17613e59a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/a79a4b9086913a171f6dbeb3f19501ae/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/a79a4b9086913a171f6dbeb3f19501ae/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/985eb837bee95a611afedbbd44c6c5ac/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/985eb837bee95a611afedbbd44c6c5ac/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/aa70439836d9c55b13db290bfddea5f5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/aa70439836d9c55b13db290bfddea5f5/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/2ba2a599deb304c817b73c7cefd6bbc0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/2ba2a599deb304c817b73c7cefd6bbc0/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/4820ad9154f6bd74871479c33a87ff33/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/4820ad9154f6bd74871479c33a87ff33/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/209d50041f42e31e97650eec3c214ba8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/209d50041f42e31e97650eec3c214ba8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/d9c04b17cff697ab27a3f0400f365037/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/d9c04b17cff697ab27a3f0400f365037/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/785b7d4aed89f7c46eda52a3e0527d0d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/785b7d4aed89f7c46eda52a3e0527d0d/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/b019b1e092b8e5d7604686b4ad90d5bb/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/b019b1e092b8e5d7604686b4ad90d5bb/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/73d50a523fec5d0e6715b345afc706bb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/73d50a523fec5d0e6715b345afc706bb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/cf7c4744656ca053a61349086d2b8d14/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/cf7c4744656ca053a61349086d2b8d14/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/052f7e9acf2f05cc29e9a1ed91ecea47/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/052f7e9acf2f05cc29e9a1ed91ecea47/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/ba78d6f407b08aad3a3ef5d8e5ab6988/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/ba78d6f407b08aad3a3ef5d8e5ab6988/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/a9caaee243d89d0936d71eeb5b5862fc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/a9caaee243d89d0936d71eeb5b5862fc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/8f00c0b3679954d4ad318312a3ca166d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/8f00c0b3679954d4ad318312a3ca166d/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/f46dd8b3576ba1c9c18d525cb371ecbe/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/f46dd8b3576ba1c9c18d525cb371ecbe/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/48738857b792ec4f34f60931ad2062c8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/48738857b792ec4f34f60931ad2062c8/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/2523155237b84684ce71e66080711c99/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/2523155237b84684ce71e66080711c99/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/38f0960008c559218260df93068fc6a2/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/oriol.abad/.gradle/caches/transforms-2/files-2.1/38f0960008c559218260df93068fc6a2/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/oriol.abad/AndroidStudioProjects/KMMTrivia/androidApp/src/main/AndroidManifest.xml

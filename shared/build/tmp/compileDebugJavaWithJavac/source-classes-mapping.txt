@@ -1,0 +1,2 @@
+uri/abad/kmmtrivia/android/BuildConfig.java
+ uri.abad.kmmtrivia.android.BuildConfig
