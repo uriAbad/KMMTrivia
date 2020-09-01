@@ -24,25 +24,40 @@ kotlin {
         }
     }
     sourceSets {
-        val commonMain by getting
+        val commonMain by getting {
+            dependencies {
+                implementation(Deps.Ktor.common_core)
+                implementation(Deps.Ktor.common_json)
+                implementation(Deps.Coroutines.common)
+
+            }
+        }
         val commonTest by getting {
             dependencies {
-                implementation(kotlin(Dependencies.KotlinTest.common))
-                implementation(kotlin(Dependencies.KotlinTest.annotations))
+                implementation(kotlin(Deps.KotlinTest.common))
+                implementation(kotlin(Deps.KotlinTest.common_annotations))
             }
         }
         val androidMain by getting {
             dependencies {
-                implementation(Dependencies.material)
+                implementation(Deps.material)
+                implementation(Deps.Ktor.android_client)
+                implementation(Deps.Coroutines.android)
             }
         }
         val androidTest by getting {
             dependencies {
-                implementation(kotlin(Dependencies.KotlinTest.jvm))
-                implementation(Dependencies.junit)
+                implementation(kotlin(Deps.KotlinTest.jvm))
+                implementation(Deps.junit)
+                implementation(Deps.Coroutines.test)
             }
         }
-        val iosMain by getting
+        val iosMain by getting {
+            dependencies {
+                implementation(Deps.Ktor.ios_client)
+                implementation(Deps.Coroutines.common)
+            }
+        }
         val iosTest by getting
     }
 }
