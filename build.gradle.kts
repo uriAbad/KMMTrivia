@@ -6,8 +6,8 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.4.0")
-        classpath("com.android.tools.build:gradle:4.0.1")
+        classpath(Deps.gradle_kotlin_plugin)
+        classpath(Deps.gradle)
     }
 }
 group = "uri.abad.kmmtrivia"
