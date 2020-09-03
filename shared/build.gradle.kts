@@ -2,6 +2,7 @@ import org.jetbrains.kotlin.gradle.plugin.mpp.KotlinNativeTarget
 
 plugins {
     kotlin("multiplatform")
+    kotlin("plugin.serialization") version Versions.kotlin
     id("com.android.library")
     id("kotlin-android-extensions")
 }
@@ -27,7 +28,9 @@ kotlin {
         val commonMain by getting {
             dependencies {
                 implementation(Deps.Ktor.common_core)
-                implementation(Deps.Ktor.common_json)
+                implementation(Deps.Ktor.json)
+                implementation(Deps.Ktor.serialization)
+                implementation(Deps.kotlinxSerialization)
                 implementation(Deps.Coroutines.common)
 
             }
