@@ -30,6 +30,7 @@ kotlin {
                 implementation(Deps.Ktor.common_core)
                 implementation(Deps.Ktor.json)
                 implementation(Deps.Ktor.serialization)
+                implementation(Deps.Ktor.CIO)
                 implementation(Deps.kotlinxSerialization)
                 implementation(Deps.Coroutines.common)
 

@@ -21,6 +21,7 @@ object Deps {
         const val json = "io.ktor:ktor-client-json:${Versions.ktor}"
         const val ios_client = "io.ktor:ktor-client-ios:${Versions.ktor}"
         const val android_client = "io.ktor:ktor-client-android:${Versions.ktor}"
+        const val CIO = "io.ktor:ktor-client-cio:${Versions.ktor}"
         const val serialization = "io.ktor:ktor-client-serialization:${Versions.ktor}"
     }
 
